@@ -17,7 +17,7 @@ from sklearn.ensemble import RandomForestRegressor
 #%% test
 
 def greet():
-    return "Hello from Christian!"
+    return "Hello group!"
 
 #%%
 
