@@ -21,3 +21,11 @@ def greet():
 
 #%%
 
+
+# Function definition
+def say_hello():
+    print("Hello hva headache!")
+
+# Function call
+say_hello()
+
