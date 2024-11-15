@@ -24,7 +24,7 @@ def greet():
 
 # Function definition
 def say_hello():
-    print("Hello hva headache!")
+    print("hva ta e pio scol di hulanda!")
 
 # Function call
 say_hello()
